@@ -1,6 +1,5 @@
 // import type { HttpContext } from '@adonisjs/core/http'
 
-import Country from '#models/country'
 import Person from '#models/person'
 import { HttpContext } from '@adonisjs/core/http'
 
